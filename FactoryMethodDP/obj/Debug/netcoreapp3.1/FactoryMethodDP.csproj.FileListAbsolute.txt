@@ -1,0 +1,14 @@
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\bin\Debug\netcoreapp3.1\FactoryMethodDP.exe
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\bin\Debug\netcoreapp3.1\FactoryMethodDP.deps.json
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\bin\Debug\netcoreapp3.1\FactoryMethodDP.runtimeconfig.json
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\bin\Debug\netcoreapp3.1\FactoryMethodDP.runtimeconfig.dev.json
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\bin\Debug\netcoreapp3.1\FactoryMethodDP.dll
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\bin\Debug\netcoreapp3.1\FactoryMethodDP.pdb
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.csproj.AssemblyReference.cache
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.AssemblyInfo.cs
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.dll
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.pdb
+C:\Users\barte\source\repos\FactoryMethodDP\FactoryMethodDP\obj\Debug\netcoreapp3.1\FactoryMethodDP.genruntimeconfig.cache
